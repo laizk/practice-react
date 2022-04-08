@@ -26,7 +26,7 @@ function App() {
       {/* <ClassExample type='solid' /> */}
       {/* <SimpleProps color='Blue'></SimpleProps> */}
       {/* <Conditions /> */}
-      {/* <Fragment /> */}
+      <Fragment />
       {/* <BlockofCode /> */}
       {/* <Expressions /> */}
       {/* <Table /> */}
