@@ -17,12 +17,12 @@ function App() {
   return (
     <div className="App">
 
-      <ComponentGetSnapshotBeforeUpdate favcol='yellow' />
+      {/* <ComponentGetSnapshotBeforeUpdate favcol='yellow' /> */}
       {/* <ComponentUpdate favcol='yellow' /> */}
       {/* <ComponentMount /> */}
       {/* <ComponentMount favcol='yellow' /> */}
       {/* <ChangeState /> */}
-      {/* <ClassState /> */}
+      <ClassState />
       {/* <ClassExample type='solid' /> */}
       {/* <SimpleProps color='Blue'></SimpleProps> */}
       {/* <Conditions /> */}
