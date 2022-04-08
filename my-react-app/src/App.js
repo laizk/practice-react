@@ -22,7 +22,7 @@ function App() {
       {/* <ComponentMount /> */}
       {/* <ComponentMount favcol='yellow' /> */}
       {/* <ChangeState /> */}
-      {/* <ClassState /> */}
+      <ClassState />
       {/* <ClassExample type='solid' /> */}
       {/* <SimpleProps color='Blue'></SimpleProps> */}
       {/* <Conditions /> */}
